@@ -10,7 +10,7 @@
 <sup>1</sup>Bilkent University, <sup>2</sup>Adobe Research, <sup>3</sup>Brown University
 
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://ipekoztas.github.io/RoPEMover/)&nbsp;
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=red)](#)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2606.27332)&nbsp;
 [![Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-demo-blue)](#)
 
 </div>
