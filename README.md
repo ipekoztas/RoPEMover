@@ -11,7 +11,8 @@
 
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://ipekoztas.github.io/RoPEMover/)&nbsp;
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2606.27332)&nbsp;
-[![Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-demo-blue)](#)
+[![Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-demo-blue)](https://huggingface.co/spaces/ipekoztas/objmove-demo)&nbsp;
+[![Weights](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-weights-yellow)](https://huggingface.co/ipekoztas/RoPEMover)
 
 </div>
 
@@ -49,9 +50,10 @@ state-of-the-art performance across all evaluation metrics.
 
 - [x] **2026.6.25**: Project page released at
   [`ipekoztas.github.io/RoPEMover`](https://ipekoztas.github.io/RoPEMover/).
-- [ ] Release arXiv preprint.
+- [x] arXiv preprint released: [`arXiv:2606.27332`](https://arxiv.org/abs/2606.27332).
 - [x] **2026.10.4**: Released inference code and pretrained weights.
-- [ ] Release interactive Hugging Face Space demo.
+- [x] Interactive demo released on
+  [Hugging Face Spaces](https://huggingface.co/spaces/ipekoztas/objmove-demo).
 
 ---
 
@@ -181,7 +183,7 @@ If you find our work useful for your research, please consider citing:
 @article{oztas2026ropemover,
   title   = {RoPEMover: Depth-Aware Object Relocation via Positional Embeddings},
   author  = {Oztas, Ipek and Ceylan, Duygu and Aksoy, Aybars Bugra and Dundar, Aysegul},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2606.27332},
   year    = {2026}
 }
 ```
