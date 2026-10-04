@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+models/
+weights/
+results/
+outputs/
+*.safetensors
+.env/
+.venv/
