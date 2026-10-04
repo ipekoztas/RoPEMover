@@ -207,4 +207,4 @@ Built on [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 ## 📧 Contact
 
 For questions, please reach out to
-[ipek.oztas@bilkent.edu.tr](mailto:ipek.oztas@bilkent.edu.tr).
+[ipek_oztas@brown.edu](mailto:ipek_oztas@brown.edu).
